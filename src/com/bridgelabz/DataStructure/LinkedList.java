@@ -1,4 +1,5 @@
 package com.bridgelabz.DataStructure;
+
 public class LinkedList {
 	Node head;
 	// class Node that hold data and a reference/link to the next Node in the list
